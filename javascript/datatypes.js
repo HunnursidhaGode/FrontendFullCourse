@@ -20,3 +20,5 @@ console.log(ok)
 // 6 big int
 var bigint=1213244444414;
 console.log(bigint)
+
+console.log(typeof myname)
