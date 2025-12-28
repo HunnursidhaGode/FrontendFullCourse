@@ -6,6 +6,7 @@ function App() {
     <div>
       <ProductTab />
       <ProductTab />
+      <ProductTab />
     </div>
   );
 }
